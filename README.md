@@ -1,1 +1,1 @@
-A repo of maven artefacts that lila needs.
+A repo of maven artefacts that hudar needs.
